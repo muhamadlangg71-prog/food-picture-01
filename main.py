@@ -1,8 +1,10 @@
 # A food-picture-01 entry (Python 3.13, standard library only): its picture is the
 # entry.png beside this file, and the program copies it to /output/entry.png.
-# The picture is a steaming gourmet ramen bowl: glossy tonkotsu broth, noodles
-# lifted in chopsticks, a jammy soft egg, glistening chashu, fresh scallions
-# and nori, in warm dramatic light.
+# v2 picture: a steaming gourmet ramen bowl, richer and more appetizing than v1 —
+# a dramatic high noodle lift in chopsticks, thick rising steam, creamy glossy
+# tonkotsu broth swirled with red chili oil, a jammy soft egg with a runny deep
+# orange yolk, caramelized chashu pork, bright scallions, sesame and chili
+# threads, in warm dramatic light against a dark moody table.
 #
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 #   mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
